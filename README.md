@@ -13,7 +13,7 @@ A p5 implementation of the Turing reaction-diffusion model with phong illuminati
 
 ### Default parameters
 
-![default](./Default.png)
+![default](./Default.jpg)
 
 feed = 0.055;
 kill = 0.062;
@@ -22,7 +22,7 @@ diffRateB = 0.5;
 
 ### Dots
 
-![dots](./Dots.png)
+![dots](./Dots.jpg)
 
 feed = 0.034;
 kill = 0.062;
@@ -32,7 +32,7 @@ tileFactor = 4.0;
 
 ### Flower
 
-![flower](./Flower.png)
+![flower](./Flower.jpg)
 
 feed = 0.018;
 kill = 0.05;
@@ -42,7 +42,7 @@ tileFactor = 7.0;
 
 ### Zebra stripes
 
-![zebra](./Zebra.png)
+![zebra](./Zebra.jpg)
 
 feed = 0.061;
 kill = 0.062;
@@ -52,8 +52,8 @@ tileFactor = 1.0;
 
 ### Change light color
 
-![screenshot_1](./Color1.png)
-![screenshot_2](./Color2.png)
+![screenshot_1](./Color1.jpg)
+![screenshot_2](./Color2.jpg)
 
 ## How to run
 
