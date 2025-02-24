@@ -57,7 +57,7 @@ tileFactor = 1.0;
 
 ## How to run
 
-We use a local minified copy of p5.js, but due to the spritesheet and CORS you cannot just open the index.html file, it needs to be served through http, we suggest running `python -m http.server 8888` in the code root folder. Or you can visit the slightly adapted version we uploaded to the p5 web editor [here]()
+We use a local minified copy of p5.js, but due to the spritesheet and CORS you cannot just open the index.html file, it needs to be served through http, we suggest running `python -m http.server 8888` in the code root folder. Or you can visit the slightly adapted version we uploaded to the p5 web editor [here](https://editor.p5js.org/jsarmientopu/full/jvvpOsLyl)
 
 ## Program Structure
 
